@@ -25,6 +25,7 @@ con un diseño flexible y responsivo. Empleando la etiqueta <article> para organ
 Repositorio en GitHub:  https://github.com/MartinITAAgs/Ejercicio-2-Simple-Article-Listing
 
 Deploy: https://martinitaags.github.io/Ejercicio-2-Simple-Article-Listing/
+
 ---
 
 ## 📝 Reflexión
